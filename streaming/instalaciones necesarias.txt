@@ -1,0 +1,18 @@
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install @react-native-community/masked-view
+npm install react-native-safe-area-context
+npm install react-native-screens
+npm install --save react-native-gesture-handler
+
+npm install @react-navigation/bottom-tabs
+
+#IMPORTANTES PARA LA REPRODUCCION
+yarn add react-native-webview or npm install react-native-webview
+yarn add react-native-youtube-iframe or npm install react-native-youtube-iframe
+
+
+npm install --save react-native-vector-icons or yarn add react-native-vector-icons
+npm install react-native-ionicons
+yarn add react-native-elements or npm install react-native-elements --save
+yarn add @rneui/themed @rneui/base
